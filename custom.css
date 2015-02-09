@@ -8,4 +8,13 @@
 
 .payor_row {
 	background-color: white;
+
+}
+
+#table_id {
+	font-size: 14px;
+}
+
+thead {
+	font-size: 16px;
 }
