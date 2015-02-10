@@ -1,12 +1,14 @@
-/*
-1. WEvent / Event Toggle
-2. Column Coloring
-3. Red row coloring / onhover
-4. Search by Prefix
-*/
-/*
-var row = document.getElementsByTagName("td");
-for (var i = 0; i < row.length; i{
-	row[i].style.backgroundColor = "red";
-};
-*/
+$('#table_id').dataTable( {
+    "columns": [
+        {"width" : "23%"},
+        {"width" : "26%"},
+        {"width" : "12.5%"},
+        {"width" : "26%"},
+        {"width" : "12.5%"}
+    ]
+});
+
+$(document).ready( function () {
+	var table = $('#table_id').DataTable();
+    new $.fn.dataTable.FixedHeader( table );
+} );
