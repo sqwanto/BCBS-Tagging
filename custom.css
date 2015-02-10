@@ -6,7 +6,7 @@
 	display: none;
 }
 
-.payor_row {
+#table_id .payor_row {
 	background-color: white;
 
 }
