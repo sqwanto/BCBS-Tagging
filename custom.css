@@ -1,11 +1,11 @@
-.wevent {
+/*.wevent {
 	background-color: #F1D8D8;
 }
 
 .prefix {
 	display: none;
 }
-
+*/
 .payor_row {
 	background-color: white;
 
@@ -16,5 +16,5 @@
 }
 
 thead {
-	font-size: 16px;
+	font-size: 14px;
 }
