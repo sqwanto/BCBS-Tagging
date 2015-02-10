@@ -307,6 +307,7 @@ table.dataTable td {
 .dataTables_wrapper .ui-toolbar {
   padding: 8px;
 }
+
 .dataTables_wrapper:after {
   visibility: hidden;
   display: block;

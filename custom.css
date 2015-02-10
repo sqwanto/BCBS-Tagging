@@ -15,6 +15,10 @@
 	font-size: 14px;
 }
 
+.fg-toolbar .ui-toolbar .ui-widget-header .ui-helper-clearfix .ui-corner-tl .ui-corner-tr {
+	position: fixed;
+}
+
 thead {
 	font-size: 14px;
 }

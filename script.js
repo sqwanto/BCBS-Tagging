@@ -12,3 +12,4 @@ $(document).ready( function () {
 	var table = $('#table_id').DataTable();
     new $.fn.dataTable.FixedHeader( table );
 } );
+
