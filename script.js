@@ -1,10 +1,10 @@
 $('#table_id').dataTable( {
     "columns": [
-        {"width" : "23%"},
-        {"width" : "26%"},
-        {"width" : "12.5%"},
-        {"width" : "26%"},
-        {"width" : "12.5%"}
+        {"width" : "21%"},
+        {"width" : "27.5%"},
+        {"width" : "12%"},
+        {"width" : "27.5%"},
+        {"width" : "12%"}
     ]
 });
 
